@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.eduafopaul058_max.twa",
+        "sha256_cert_fingerprints": ["99:11:B0:13:31:DA:E9:DD:7C:6F:29:F2:5E:BE:24:5D:78:D2:9E:F4:3D:C3:35:33:5B:12:A3:57:EC:17:F8:D0"]
+      }
+    }]
